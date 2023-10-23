@@ -1,1 +1,1 @@
-# HCR
+# Handwritten Charatcter Recognition
